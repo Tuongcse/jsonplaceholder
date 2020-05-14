@@ -1,26 +1,28 @@
-[
-  {
-    "name": "Adidas",
-    "description": "FORGEFIBER BOA",
-    "price": "4.995.000₫",
-    "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/a07e5c8f7a3b47129096a92e017a8737_9366/FORGEFIBER_BOA_Mau_djen_BB7920_01_standard.jpg"
-  },
-  {
-    "name": "Adidas",
-    "description": "FORGEFIBER BOA",
-    "price": "4.995.000₫",
-    "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/a07e5c8f7a3b47129096a92e017a8737_9366/FORGEFIBER_BOA_Mau_djen_BB7920_01_standard.jpg"
-  },
-  {
-    "name": "Adidas",
-    "description": "FORGEFIBER BOA",
-    "price": "4.995.000₫",
-    "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/a07e5c8f7a3b47129096a92e017a8737_9366/FORGEFIBER_BOA_Mau_djen_BB7920_01_standard.jpg"
-  },
-  {
-    "name": "Adidas",
-    "description": "FORGEFIBER BOA",
-    "price": "4.995.000₫",
-    "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/a07e5c8f7a3b47129096a92e017a8737_9366/FORGEFIBER_BOA_Mau_djen_BB7920_01_standard.jpg"
-  }
-]
+{
+  "products": [
+    {
+      "name": "Adidas",
+      "description": "FORGEFIBER BOA",
+      "price": "4.995.000₫",
+      "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/a07e5c8f7a3b47129096a92e017a8737_9366/FORGEFIBER_BOA_Mau_djen_BB7920_01_standard.jpg"
+    },
+    {
+      "name": "Adidas",
+      "description": "FORGEFIBER BOA",
+      "price": "4.995.000₫",
+      "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/a07e5c8f7a3b47129096a92e017a8737_9366/FORGEFIBER_BOA_Mau_djen_BB7920_01_standard.jpg"
+    },
+    {
+      "name": "Adidas",
+      "description": "FORGEFIBER BOA",
+      "price": "4.995.000₫",
+      "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/a07e5c8f7a3b47129096a92e017a8737_9366/FORGEFIBER_BOA_Mau_djen_BB7920_01_standard.jpg"
+    },
+    {
+      "name": "Adidas",
+      "description": "FORGEFIBER BOA",
+      "price": "4.995.000₫",
+      "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/a07e5c8f7a3b47129096a92e017a8737_9366/FORGEFIBER_BOA_Mau_djen_BB7920_01_standard.jpg"
+    }
+  ]
+}
